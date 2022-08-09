@@ -6,7 +6,7 @@ Features
 - All transactions are written on the blockchain
 - User can purchase a land
 - User can set a game for their lands to be played by others
-- User can purcahse RPC tokens
+- User can purchase RPC tokens
 
 ![preview](https://user-images.githubusercontent.com/61472807/183485912-c7226ff8-156e-4921-8cdf-08aefa7df2d8.png)
 ![preview2](https://user-images.githubusercontent.com/61472807/183485922-c6b3fd97-d771-4685-994f-6b2d5bfe7d6e.png)
